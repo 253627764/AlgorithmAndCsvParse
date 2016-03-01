@@ -1,0 +1,24 @@
+FID,BelongedFarmMapType,Name,Type,UnlockLevel,BuildCoins,BuildTime,Remote,PayoutType,GenProduct,GenProductIcon,SmallGameType,RemoteFileID,CostType,RewardType
+1,normal,Wild Wheat,1,1,0,1,0,0,1,5,1,0,0,0
+2,normal,Chicken Coop,1,10,1000,300,0,0,2,5,1,0,0,0
+10,normal,Something Fishy,2,15,2000,480,1,0,10,5,1,SlotsMachine_10,0,0
+3,normal,Corny Kernels,1,20,5000,600,0,0,3,5,1,0,0,0
+4,normal,Milky Way,1,30,20000,1200,1,0,4,5,1,SlotsMachine_4,0,0
+5,normal,Lasting Sweet,1,40,50000,2400,1,0,5,5,1,SlotsMachine_5,0,0
+6,normal,Pigs Might Fly,1,50,70000,3600,1,0,6,5,1,SlotsMachine_6,0,0
+7,normal,Cupid's Arrow,1,60,90000,4800,1,0,7,5,1,SlotsMachine_7,0,0
+8,normal,Couch Potato,1,70,110000,6000,1,0,8,5,1,SlotsMachine_8,0,0
+9,normal,Creepy Cauldron,1,80,120000,7200,1,0,9,5,1,SlotsMachine_9,0,0
+11,normal,Sleepy Sheep,1,90,140000,8400,1,0,11,5,1,SlotsMachine_11,0,0
+12,normal,Sweet Strawberries,1,100,160000,9600,1,0,12,5,1,SlotsMachine_12,0,0
+13,ville,Shopper's Paradise,1,105,200000,3600,1,0,1005,5,1,SlotsMachine_13,0,0
+14,ville,Reel Cinema,1,120,250000,5400,1,0,1007,5,1,SlotsMachine_14,0,0
+15,normal,Fresh Brew,1,130,300000,10800,1,0,13,5,1,SlotsMachine_15,0,0
+16,ville,Carefree Coffee,1,140,350000,7200,1,0,16,5,1,SlotsMachine_16,0,0
+17,normal,Big Bonanza,3,5,100,1,1,0,0,0,0,SlotsMachine_17,0,0
+18,ville,Yummy Cupcake,1,150,400000,9000,1,0,18,5,1,SlotsMachine_18,0,0
+19,ville,Tails of Yarn,1,160,450000,10800,1,0,19,5,1,SlotsMachine_19,0,0
+20,normal,Santa's Sleigh,1,8,100,120,1,0,20,5,1,SlotsMachine_20,0,0
+21,normal,Cinderella Story,4,8,0,0,1,0,0,0,0,SlotsMachine_21,1,1
+22,ville,Chinatown,1,170,500000,10800,1,0,22,5,1,SlotsMachine_22,0,0
+23,normal,Victoria,4,8,0,0,1,0,0,0,0,SlotsMachine_23,1,1

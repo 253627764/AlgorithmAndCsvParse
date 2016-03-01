@@ -1,0 +1,77 @@
+FID,Group,IdxInGroup,Type,Name,OpenConditionType,OpenConditionValue,DescDirection,ArrowDirection,ArrowPosX,ArrowPosY,ClipShape,ClipPosX,ClipPosY,ClipWidth,ClipHeight,Description,isRewardGems
+0,0,0,2,"Description",-1,-1,3,-1,-1,-1,-1,-1,-1,-1,-1,"Welcome to Farm Slots. Use your winnings to build your own farm!",1
+1,1,0,1,"ClickWheatMachine",-1,-1,2,3,-2.2,0,1,0,0,40,-1,"I can't wait to get into Wild Wheat. Let's get on with the fun!",1
+2,2,0,1,"ClickSpin",0,1,3,3,-1.2,0.2,1,0,0,106,-1,"Awesome fun with every spin!",1
+
+3,3,0,1,"ClickOrderPanel",0,24,-1,3,-1.4,0.1,1,0,0.1,60,-1,"You're gonna need coins to establish your farm, and the best way to get those is to fulfil orders.",1
+4,4,0,1,"SelectFirstOrder",0,3,2,3,-0.8,0,1,0.15,-0.1,120,-1,"Collect or produce the items listed in your orders.",1
+5,5,0,1,"CompleteFirstOrder",0,4,3,3,-1.4,0,1,0,0,85,-1,"Fulfil your orders to collect bonus coins. If you complete all your current orders you'll receive the jackpot!",1
+
+6,6,0,0,"ClickAchievement",1,4,-1,0,0,0,-1,-1,-1,-1,-1,,1
+7,7,0,0,"GetAchievement",0,6,-1,0,0,0,-1,-1,-1,-1,-1,,1
+8,8,0,0,"ClickWarehouse",1,4,-1,0,0,0,-1,-1,-1,-1,-1,,1
+9,9,0,0,"ClickUpgradeWarehouse",0,8,-1,0,0,0,-1,-1,-1,-1,-1,,1
+10,10,0,0,"UpgradeWarehouse",0,9,-1,0,0,0,-1,-1,-1,-1,-1,,1
+11,11,0,0,"ClickTotalBet",2,3,-1,0,0,0,-1,-1,-1,-1,-1,,1
+
+12,12,0,1,"ClickFarm",2,5,2,2,2.0,0,1,0,0,50,-1,"Let's go to the farm and have a look at the Mill.",1
+13,13,0,1,"ClickFarmMachine",0,12,2,2,1.2,0.1,1,0.05,0.2,185,-1,"The mill can now be unlocked! Do it!",1
+14,14,0,1,"UnlockFarmMachine",0,13,2,3,-1.5,0.1,1,0,0,90,-1,"Just tap ""OK"" and the mill will be unlocked!",1
+15,15,0,2,"UnlockFarmMachineNeedTime",0,14,3,-1,-1,-1,-1,-1,-1,-1,-1,"This will take a bit of time to unlock. How about playing some slots while you wait?",1
+
+16,16,0,0,"ClickFarmOrderPanel",0,12,-1,0,0,0,-1,-1,-1,-1,-1,,1
+17,17,0,0,"ClickFarmWheatMachine",0,12,-1,0,0,0,-1,-1,-1,-1,-1,,1
+18,18,0,0,"ClickFarmWarehouse",0,12,-1,0,0,0,-1,-1,-1,-1,-1,,1
+
+19,19,0,0,"ReturnToFarm",2,6,-1,0,0,0,-1,-1,-1,-1,-1,,1
+20,20,0,0,"ClickLobbyMine",0,19,-1,0,0,0,-1,-1,-1,-1,-1,,1
+21,21,0,0,"ClickFarmMine",0,19,-1,0,0,0,-1,-1,-1,-1,-1,,1
+
+22,22,0,2,"WarehouseFull",-1,-1,2,-1,-1,-1,-1,-1,-1,-1,-1,"Your warehouse is totally full! You can choose to expand it or try completing some orders.",1
+23,23,0,2,"SlotMachineNoOrder",-1,-1,3,-1,-1,-1,-1,-1,-1,-1,-1,"Oh, you can't get the items you need from this Slot right now. Maybe you can try playing a different one?",1
+
+24,24,0,1,"ClickSpinAgain",0,2,3,3,-1.2,0.2,1,0,0,106,-1,"Wow, lucky you! There's plenty more fun to be had, so keep at it!",1
+25,25,0,0,"ClickAutoSpin",2,8,-1,0,0,0,-1,-1,-1,-1,-1,,1
+26,26,0,2,"CompletedAllOrders",-1,-1,3,3,-0.8,0,1,0.41,-0.06,125,-1,"You're doing great! Keep completing orders and you'll receive even bigger rewards, which you can use to expand your farm.",1
+27,27,0,1,"ClickOrdersTruck",0,26,3,3,-2.0,0,1,0,0,60,-1,"Wow, great work! All orders have been completed, tap the "truck" to receive your jackpot!",1
+28,28,0,1,"AddedCompletedProducts",3,-1,2,2,1.0,0,1,0,0,60,-1,"Oh good, you've produced a new item that can now be collected!",1
+29,29,0,1,"PresentedGems",0,14,2,2,1.0,0,1,0,0,60,-1,"Here, have some gems. Use them to remove the wait time and play now.",1
+30,30,0,1,"SpeedupFarmBuild",0,29,2,3,-1.0,0,1,0.83,0,50,-1,"Tap here to remove the wait time using gems.",1
+31,31,0,1,"OpenFarmBuildingGift",0,30,2,3,-1.0,0.28,1,0,0.28,200,-1,"A new machine is ready, unwrap your present to see what's inside!",1
+32,32,0,1,"PresentedChips1",-1,-1,2,3,-1.8,0,1,0,0,40,-1,"Don't worry, we'll give you another 100,000 chips to keep you going. Keep at it!",1
+33,33,0,1,"PresentedChips2",0,-1,2,3,-1.8,0,1,0,0,40,-1,"Ah! Here's another 100,000 chips. Make sure you play every day to get even more free chips!",1
+
+34,34,0,1,"ClickFarmForPlayerShop",0,22,2,2,2.0,0,1,0,0,50,-1,"There's another way to get rid of your surplus goods. Let's have a look at your shop!",1
+35,35,0,1,"ClickFarmPlayerShop",0,34,2,3,-1.2,0.1,1,0,0,200,-1,"Surplus goods can be placed in your shop. They will be automatically sold for coins every few hours!",1
+36,36,0,1,"ClickFarmPlayerShopSlot",-1,-1,2,3,-1.2,0.1,1,0,0,90,-1,"Place any item that you want to sell here, then come back after a while and you'll see that it's been sold!",1
+37,37,0,2,"FarmPlayerShopPutSaleComplete",-1,-1,3,-1,-1,-1,-1,-1,-1,-1,-1,"Great! Don't forget to come back and collect your coins!",1
+
+38,38,0,0,"ClickFarmWharf",0,49,-1,0,0,0,-1,-1,-1,-1,-1,,1
+39,39,0,0,"ClickVip",2,2,-1,0,0,0,-1,-1,-1,-1,-1,,1
+40,40,0,0,"ClickFarmWheel",2,7,-1,0,0,0,-1,-1,-1,-1,-1,,1
+
+41,41,1,1,"OpenFarmWheatMachineGift",-1,-1,2,2,1.2,0.1,1,0,0.2,200,-1,"Let's open this gift and have a look what's inside!",1
+42,42,1,1,"OpenFarmMillGift",0,46,2,2,1.2,0.1,1,0,0.2,200,-1,"Another surprise? Let’s have a look inside!",1
+43,43,0,-1,"MakeBread",0,12,-1,-1,-1,-1,-1,-1,-1,-1,-1,,1
+44,44,0,-1,"FarmVilleIntroduction",2,53,-1,-1,-1,-1,-1,-1,-1,-1,-1,,1
+45,45,0,-1,"FarmVilleOpen",2,105,-1,-1,-1,-1,-1,-1,-1,-1,-1,,1
+46,46,0,-1,"FarmWheatMachineIntroduction",0,41,-1,-1,-1,-1,-1,-1,-1,-1,-1,,1
+47,47,0,-1,"FarmMillIntroduction",0,42,-1,-1,-1,-1,-1,-1,-1,-1,-1,,1
+48,48,0,2,"ContinueGame",0,5,3,-1,-1,-1,-1,-1,-1,-1,-1,"You’re already familiar with the basic gameplay, so it’s time for you to continue on your own. Keep building your farm and I’ll pop in every now and then to see if you need any help.",1
+
+49,49,0,1,"InGameFarmWharfOpen",2,7,2,2,2.0,0,1,0,0,50,-1,"Do you hear the ship’s horn? Go have a look!",1
+50,50,0,2,"RewardWheel",-1,-1,3,-1,-0.8,0,1,0,0,3000,-1,"You have a chance to spin the wheel each time you complete an order.",0
+51,50,1,2,"ClickRewardWheelSpin",-1,-1,3,-1,-0.8,0,1,0.01,0.06,55,-1,"Tap the SPIN button to spin the wheel. Remember, when the ship leaves you’ll lose all your chances to spin the wheel, so you should use them straight away! Good luck!",0
+52,52,0,-1,"FarmMillIntroduction",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,,0
+53,53,0,0,"ClickAirport",-1,-1,-1,0,0,0,-1,-1,-1,-1,-1,,1
+
+54,54,0,1,"ClickTask",2,3,3,3,-1.6,0,1,0,0,55,-1,"I just found a poor little dog. Can you help me look after it? Tap the button and complete a task each day, and if you can do this for 7 days the dog will be yours!",1
+
+55,55,0,2,"kGameGuideCompleteOrderForFarmCoins",-1,-1,3,-1,-1,-1,-1,-1,-1,-1,-1,"No enough coins. Complete orders in your farm to win coins.",0
+56,56,0,1,"ClickFarmForTreeholeBtn",2,11,2,2,2.0,0,1,0,0,60,-1,"Little Charlie has stumbled across a mysterious portal inside a tree. What secrets could lie inside?",1
+57,57,0,1,"ClickTreeholeInFarm",0,56,2,2,2.0,1,1,0,0.5,120,-1,"With the discovery of this Tree Portal, a new journey begins…",1
+58,58,0,2,"EnterTreehole",0,57,3,-1,-1,-1,-1,-1,-1,-1,-1,"Wow, new slots to play just by spending some coins! Plenty of winnings waiting to be won, you’d better hurry!",0
+,"hello,please press “ok”.",,,,,
+
+
+
